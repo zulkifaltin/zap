@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/OoONVyI.png" group-title="",TRT 1 (720p) [Geo-blocked]
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRT2.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://www.dsmart.com.tr/epg/images/0x50/5c6fb96bcfef0b613da060f6" group-title="",TRT 2 [Geo-blocked]
-https://tv-trt2.live.trt.com.tr/master.m3u8
 #EXTINF:1 tvg-id="FoxTurkiye.us" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/e79397a0-ec34-41aa-97b5-9323f1296383.png" group-title="Ulusal",Fox TV
 http://93.157.62.180/FoxTurk/index.m3u8
 #EXTINF:-1 tvg-id="teve2.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="",teve2 (720p) [Offline]
