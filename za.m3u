@@ -1,17 +1,3 @@
 #EXTM3U
-#EXTINF:-1,TRT 1 FHD TR
-http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/12835
-#EXTINF:-1,TRT 1 HD TR
-http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/8711
-#EXTINF:-1,TRT 1 TR
-http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/54651
-#EXTINF:-1,TRT 4K TR
-http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/667815
-#EXTINF:-1,ATV FHD TR
-http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/6915
-#EXTINF:-1,ATV HD TR
-http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/8660
-#EXTINF:-1,ATV Avrupa TR
-http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/6914
-#EXTINF:-1,Show TV FHD TR
-http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/8656
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/OoONVyI.png" group-title="",TRT 1 (720p) [Geo-blocked]
+https://tv-trt1.medya.trt.com.tr/master.m3u8
