@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/OoONVyI.png" group-title="",TRT 1 (720p) [Geo-blocked]
 https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRT2.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://www.dsmart.com.tr/epg/images/0x50/5c6fb96bcfef0b613da060f6" group-title="",TRT 2 [Geo-blocked]
+https://tv-trt2.live.trt.com.tr/master.m3u8
